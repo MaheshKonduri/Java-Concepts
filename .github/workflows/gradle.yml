@@ -1,4 +1,4 @@
-name: Mahesh Java COncepts CI
+name: Mahesh Java Concepts CI
 
 on: [push]
 
