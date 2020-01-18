@@ -1,4 +1,4 @@
-package java.practice.JavaConcepts;
+package practicejava.basics.concepts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,6 +8,7 @@ public class JavaConceptsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaConceptsApplication.class, args);
+		System.out.println("Application has been started in springboot:");
 	}
 
 }
