@@ -12,7 +12,8 @@ public class JavaConceptsApplication {
 		SpringApplication.run(JavaConceptsApplication.class, args);
 		System.out.println("Application has been started in springboot:");
 		CallingArraysConcepts callingArraysConcepts = new CallingArraysConcepts();
-		callingArraysConcepts.callBasicArray();
+		callingArraysConcepts.callBasicArray(); //for basic prectice 
+		callingArraysConcepts.callLeetCodeArrays();// for leet-code challenges 
 	}
 
 }
